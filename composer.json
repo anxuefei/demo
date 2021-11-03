@@ -1,0 +1,19 @@
+{
+    "name": "axf/demo",
+    "description": "this a demo",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Axf\\Demo\\": "src/demo/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Afei",
+            "email": "359035998@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
